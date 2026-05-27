@@ -5,5 +5,7 @@ def kalkulyator(a, b):
 
 
 
-def yangi():
-    return "serquyosh hur olkam"
+print("yangi malumot")
+
+
+
