@@ -9,3 +9,4 @@ print("yangi malumot")
 
 
 
+print("revert uchun")
